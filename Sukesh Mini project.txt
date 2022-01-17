@@ -64,7 +64,7 @@ int main()
    do{
   printf("\n====================================================================");
   printf("\n");  
-  printf("\t Moive Ticket booking ");
+  printf("\t Movie Ticket booking ");
   printf("\n");
   printf("\n====================================================================");
   
